@@ -1,10 +1,13 @@
-# CRUDNetCore5
+# CRUDNetCore5 <br>
+Framework Net Core Version 5.0 <br>
 #Proyecto desarrollo con migraciones
-
+<br>
+<br>
 
 Clonar el proyecto
-
-Crear una base de datos en SqlServer
-Configurar la cadena de coneccion 
-Abrir una consola Nuget y ejecutar las migraciones
-update-database
+<br>
+<br>
+Crear una base de datos en SqlServer<br>
+Configurar la cadena de coneccion <br> 
+Abrir una consola Nuget y ejecutar las migraciones <br>
+update-database <br>
